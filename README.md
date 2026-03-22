@@ -2,8 +2,6 @@
 
 **Empresa Digital:** Nubank  
 **Aspecto arquitetural:** Integração com o sistema de pagamentos instantâneos (PIX) via BACEN  
-**Aluno:** Ryan  
-**Módulo:** ES09 — Engenharia de Software | Inteli
 
 ---
 
